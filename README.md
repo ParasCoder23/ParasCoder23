@@ -3,8 +3,8 @@
 
 Email Me 👉 ✉️ **piyushbudhiraja7@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** Real time Seat Booking Application
-- 🌱 **I’m currently learning:** Java || React || MYSQL || DevOps
+- 🔭 **I’m currently working on:** Personal Projects 
+- 🌱 **I’m currently learning:** SpringBoot || React || DevOps || DSA
 - 👯 **I’m looking to collaborate on:** Full stack Application
 - 🤔 **I’m looking for help with:** Ready for collaboration
 - 💬 **Ask me about:** Collaboration, Tech Support
